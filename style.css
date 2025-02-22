@@ -50,6 +50,11 @@ button {
     position: relative;
 }
 
+.none{
+    visibility: hidden;
+    height: 0;
+}
+
 @media (min-width: 768px) {
     body {
         display: block;
